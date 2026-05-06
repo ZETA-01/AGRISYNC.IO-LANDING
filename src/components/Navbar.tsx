@@ -28,7 +28,7 @@ export default function Navbar() {
       
       <div className="flex items-center gap-3 md:gap-6">
         <Link 
-          to="/system" 
+          to="https://agrisync.io/" 
           className="text-[10px] md:text-sm font-medium hover:text-black dark:hover:text-white transition-colors text-right leading-tight"
           id="nav-login-link"
         >

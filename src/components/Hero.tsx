@@ -17,7 +17,7 @@ export default function Hero() {
         transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
       >
         <span className="inline-block px-4 py-1.5 mb-6 rounded-full bg-zinc-100 dark:bg-zinc-900 text-xs font-semibold tracking-wider uppercase text-slate-500">
-          Nueva Versión 2.0
+          by ZETA01®
         </span>
         <h1 className="heading-xl mb-8 max-w-4xl mx-auto">
           {TAGLINE}
