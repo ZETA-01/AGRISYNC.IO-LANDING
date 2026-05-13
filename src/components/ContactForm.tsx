@@ -55,7 +55,7 @@ export default function ContactForm() {
               </div>
               <div className="text-left">
                 <div className="font-bold text-zinc-900 dark:text-white">Email Corporativo</div>
-                <div className="text-sm text-zinc-500 font-medium tracking-tight">contacto@agrisync.cl</div>
+                <div className="text-sm text-zinc-500 font-medium tracking-tight">contacto@zetagono.com</div>
               </div>
             </div>
           </div>
