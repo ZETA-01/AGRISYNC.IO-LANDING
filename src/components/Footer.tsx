@@ -22,7 +22,7 @@ export default function Footer() {
         </div>
 
         <div className="text-sm text-slate-400 font-medium">
-          © {new Date().getFullYear()} AgriSync Chile by ZETA01®. Todos los derechos reservados.
+          © {new Date().getFullYear()} ZETAGONO POWERED BY WEDZE®. Todos los derechos reservados.
         </div>
       </div>
     </footer>
