@@ -25,7 +25,7 @@ export default function Logo({ className = "", showText = true }: LogoProps) {
       {showText && (
         <div className="flex flex-col justify-center leading-none">
           <span className="text-base md:text-lg font-black tracking-tighter text-black dark:text-white uppercase">
-            AGRISYNC
+            ZETAGONO
           </span>
           <span className="text-[5.5px] md:text-[6.5px] font-bold text-slate-500 dark:text-slate-400 tracking-[0.14em] uppercase mt-0.5 leading-tight opacity-80">
             Conectando la<br />agricultura moderna
