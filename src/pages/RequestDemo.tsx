@@ -140,7 +140,7 @@ export default function RequestDemo() {
               </div>
               <h2 className="text-3xl font-bold tracking-tight mb-4">¡Solicitud Recibida!</h2>
               <p className="text-slate-500 mb-10 font-medium leading-relaxed">
-                Su usuario demo ha sido creado. Un asesor de AgriSync se contactará con usted en las próximas 24 horas para una capacitación guiada.
+                Su usuario demo ha sido creado. Un asesor de ZETAGONO se contactará con usted en las próximas 24 horas para una capacitación guiada.
               </p>
               
               <div className="space-y-4">
