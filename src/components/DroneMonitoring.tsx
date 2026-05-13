@@ -24,7 +24,7 @@ export default function DroneMonitoring() {
               Diagnóstico de Precisión con Mavic 3M.
             </h2>
             <p className="text-xl text-slate-500 mb-10 leading-relaxed font-medium">
-              Transformamos las imágenes multiespectrales de sus vuelos en mapas de acción directa. Sin complicaciones, directo a su panel de AgriSync.
+              Transformamos las imágenes multiespectrales de sus vuelos en mapas de acción directa. Sin complicaciones, directo a su panel de ZETAGONO.
             </p>
 
             <div className="space-y-8">
