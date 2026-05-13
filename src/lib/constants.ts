@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-export const PRODUCT_NAME = "AgriSync Chile";
+export const PRODUCT_NAME = "ZETAGONO";
 export const TAGLINE = "La inteligencia que su campo necesita.";
 export const DESCRIPTION = "Optimice su cosecha de cerezas y fruta de exportación con trazabilidad en tiempo real, control de calidad digital y logística inteligente diseñada para el agro chileno.";
 
@@ -36,4 +36,4 @@ export const FEATURES = [
 ];
 
 export const WHATSAPP_NUMBER = "+56956751412"; // Placeholder, normally should be set via env
-export const CONTACT_EMAIL = "contacto@agrisync.cl";
+export const CONTACT_EMAIL = "contacto@zetagono.com";
