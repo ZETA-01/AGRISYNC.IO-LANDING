@@ -28,7 +28,7 @@ export default function LandingPage() {
         <section className="py-32 px-6 md:px-12 bg-black text-white text-center" id="demo">
            <div className="max-w-4xl mx-auto">
               <h2 className="heading-lg mb-8 tracking-tighter">¿Listo para modernizar su operación?</h2>
-              <p className="text-xl text-zinc-400 mb-12 font-medium">Unete a las exportadoras líderes que ya confían en AgriSync para asegurar su calidad.</p>
+              <p className="text-xl text-zinc-400 mb-12 font-medium">Unete a las exportadoras líderes que ya confían en ZETAGONO para asegurar su calidad.</p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
                 <motion.a 
                   href="/request-demo" 
