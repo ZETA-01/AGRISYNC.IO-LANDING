@@ -24,7 +24,7 @@ export default function ContactForm() {
   };
 
   const handleWhatsApp = () => {
-    window.open(`https://wa.me/${WHATSAPP_NUMBER.replace("+", "")}?text=Hola, me gustaría solicitar información sobre AgriSync.`, "_blank");
+    window.open(`https://wa.me/${WHATSAPP_NUMBER.replace("+", "")}?text=Hola, me gustaría solicitar información sobre ZETAGONO.`, "_blank");
   };
 
   return (
