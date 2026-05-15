@@ -27,13 +27,13 @@ export default function Navbar() {
       </div>
       
       <div className="flex items-center gap-3 md:gap-6">
-        <Link 
-          to="https://agrisync.io/" 
+       <a 
+          href="https://app.zetagono.com" 
           className="text-[10px] md:text-sm font-medium hover:text-black dark:hover:text-white transition-colors text-right leading-tight"
           id="nav-login-link"
         >
           Iniciar<br />Sesión
-        </Link>
+        </a>
         <Link 
           to="/request-demo" 
           className="apple-button-primary text-[10px] md:text-sm py-1 px-3 md:py-2 md:px-4 text-center leading-tight shrink-0"
